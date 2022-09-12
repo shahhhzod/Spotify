@@ -192,3 +192,9 @@ i:hover {
     font-size: 48px;
     color: #1DB954;
   }
+  
+
+  button {
+    border: none;
+    background-color: transparent;
+  }
