@@ -1,1 +1,77 @@
+.main {
+    background-color: rgb(18,18,18);
+}
 
+.nav-bar {
+    background-color: black;
+    width: 250px;
+    margin-top: -90px;
+    height: 615px;
+}
+
+.logo {
+    margin-top: 30px;
+    width: 180px;
+    margin-left: 20px;
+}
+
+.icon {
+    margin-top: 20px;
+    margin-left: 35px;
+    line-height: 40px;
+    color: #a7a7a7;
+}
+
+
+i {
+    font-size: 22px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+i:hover {
+   color: white;
+}
+
+
+.header {
+    background-color: rgba(0,0,0,.5);
+    margin-left: 250px;
+    height: 80px;
+    width: auto;
+}
+
+
+.login { 
+    text-decoration: none;
+    color: #a7a7a7;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.button-log {
+    background-color: white;
+    border: none;
+    border-radius: 500px;
+    width: 110px;
+    height: 48px;
+}
+
+.left-nav {
+    display: flex;
+    margin-left: 730px;
+    margin-top: -40px;
+}
+
+.nav-link {
+   text-align: center;
+   display: flex;
+}
+
+.forget {
+    text-decoration: none;
+    color: #a7a7a7;
+    font-size: 20px;
+    margin: 20px 10px 10px;
+}
